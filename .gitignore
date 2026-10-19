@@ -1,0 +1,8 @@
+# ============================================================
+#  Pliki zawierajace dane dostepowe do bazy danych - NIE commitowac
+# ============================================================
+config.php
+dostep do mysql.txt
+
+# Katalog z plikami uzytkownikow (tworzony w trakcie dzialania aplikacji)
+users/
